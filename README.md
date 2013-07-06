@@ -4,7 +4,7 @@ CCDA stands for Consolidated Clinical Document Architecture <br>
 This repository contains program that decodes any given CCDA document to HRF(Human Readable form), 
 In this assignment, HRF is referring to Text File which is outputted by the program.
 
-Note: The program in this repository doesn't decode all sections of CCD document.
+Note: The program in this repository doesn't decode all sections of CCDA document.
 
 About CCDA:
 ===========
